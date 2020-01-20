@@ -142,6 +142,7 @@ h1,h2,h3 {
 
 .design_icon {
     margin-right: 35px;
+    max-height: 40px;
 }
 
 .design_suptitle {
