@@ -61,12 +61,12 @@ h1,h2,h3 {
 
 }
 
-.fab {
+.green_icon {
     color: #98d361;
     font-size: 31px;
 }
 
-.fab:hover{
+.green_icon:hover{
     color: #010101;
 }
 
@@ -125,7 +125,8 @@ h1,h2,h3 {
 
 }
 
-.design_info{
+.design_info {
+    margin: 50px 0 0 20px;
    
 }
 
@@ -148,3 +149,138 @@ h1,h2,h3 {
 .design_suptitle {
     color: #98d361;
 }
+
+.testimonials_item {
+   
+}
+
+.quotes {
+    display: block;
+    margin: 0 auto;
+    padding-top: 60px;
+    
+}
+
+
+.testimonials_text {
+    font-size: 24px;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 130px;
+    width: 660px;
+    text-align: center;
+    color: #8c9494;
+}
+
+
+.testimonials_icon {
+    padding-left: 40px;
+    margin-bottom: 140px;
+}
+
+.testimonials_title{
+    padding-left: 10px;
+    padding-top: 15px;
+}
+
+.testimonials_suptitle {
+    font-size: 18px;
+    color: #98d361;
+    font-weight: 500;
+}
+
+.testimonials_subtitle {
+    color: #8c9494;
+}
+
+.notify {
+    background-color: #f8f8f9;
+    padding-top: 70px;
+    padding-bottom: 90px;
+}
+
+.notify_text {
+    text-align: center;
+}
+
+.notify_suptitle {
+    font-size: 30px;
+    color: #8c9494;
+    font-weight: 500;
+    margin: 30px 0 20px;
+}
+
+
+
+.notify_subtitle {
+    font-size: 22px;
+    color: #686868;
+    margin-bottom: 60px;
+}
+
+
+
+.notify_form {
+    position: relative;
+    max-width: 772px;
+    margin: 0 auto;
+}
+
+
+
+.email_form {
+    height: 60px;
+    border-radius: 60px;
+   
+}
+
+.email_form:focus {
+    box-shadow: none;
+}
+
+.notify_form .btn {
+    position: absolute;
+    right: -20px;
+    top: 0;
+    height: 60px;
+    width: 172px;
+    border-radius: 0 30px 30px 0;
+    font-size: 20px;
+    
+}
+
+
+.footer {
+    padding-top: 60px;
+}
+
+
+.footer_icon {
+    text-align: center;
+    margin-bottom: 97px;
+    
+}
+
+.footer_social {
+    margin-bottom: 60px;
+}
+
+
+.social_icon {
+    font-size: 40px;
+    color: #a9afaf;
+    text-decoration: none;
+    margin: 0 25px;
+}
+
+.social_icon:hover {
+    color: #010101;
+}
+
+.footer_text {
+    margin: 0 auto;
+    color: #a9afaf;
+}
+
+
